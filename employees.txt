@@ -1,0 +1,10 @@
+Jack,69
+Jack,55
+John,11
+John,18
+John,20
+Jack,2
+Jack,55
+John,69
+Jane,74
+Joe,30
